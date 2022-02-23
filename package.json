@@ -1,0 +1,12 @@
+{
+  "name": "onlineshop",
+  "version": "1.0.0",
+  "description": "online shop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": ""
+  },
+  "author": "Slava Chuv",
+  "license": "ISC"
+}
